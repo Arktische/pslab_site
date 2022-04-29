@@ -8,8 +8,8 @@
 appearance:
   theme_day: minimal
   theme_night:
-  font: Georgia
-  font_size: M
+  font: Rose
+  font_size: S
 
 # SEO
 
