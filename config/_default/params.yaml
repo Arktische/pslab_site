@@ -6,10 +6,10 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
+  theme_day: Earth
   theme_night:
   font: Rose
-  font_size: S
+  font_size: M
 
 # SEO
 
