@@ -1,6 +1,6 @@
 ---
 title: Yuxing Tu
-role: Founder of Pivot Lab, Senior Student in SIGSYS
+role: Founder of Pivot Lab, Senior Student in IGSYS
 avatar_filename: avatar.jpg
 bio: I love building systems and hard-core programming!
 interests:
