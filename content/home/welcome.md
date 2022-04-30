@@ -43,7 +43,7 @@ design:
         <ul class="ul-interests mb-0">
             <li>We are finding collaborators for an educational open-sourced project tinyRPC.</li>
             <li>We have seminar on variable topics periodly. Join us if you're interested.</li>
-            <li>Contact us: lab@pivotstudio.cn</li>
+            <li>Contact us: <a href="mailto:lab@pivotstudio.cn">lab@pivotstudio.cn</a></li>
         </ul>
     </div>
 </div>
