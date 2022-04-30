@@ -34,7 +34,7 @@ design:
         <div class="section-subheading">Colloborations & Fundings</div>
         <ul class="ul-interests mb-0">
             <li>Fundings & Colloboration from Tencent</li>
-            <li>Colloboration with <strong>PDSL Lab</strong>@HUST led by <a href=""http://faculty.hust.edu.cn/wanjiguang/zh_CN/zhym/1618843/list/index.htm>Prof. Wan</a></li>
+            <li>Colloboration with <strong>PDSL Lab</strong>@HUST led by <a href="http://faculty.hust.edu.cn/wanjiguang/zh_CN/zhym/1618843/list/index.htm">Prof. Wan</a></li>
             <li>Official funding and support from <a  href="http://cs.hust.edu.cn">CSE</a> department, HUST</li>
         </ul>
     </div>
