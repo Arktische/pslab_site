@@ -4,7 +4,6 @@ widget_id: introduction-page
 headless: true
 weight: 10
 title: Pivot Lab
-hero_media: welcome.jpg
 design:
   columns: "2"
   css_style: null
