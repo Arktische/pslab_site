@@ -1,6 +1,6 @@
 ---
 title: Yuxuan Cheng
-role: Advisor for SIGSYS, Developer@Apache Doris
+role: Advisor for IGSYS, Developer@Apache Doris
 avatar_filename: avatar
 social: []
 superuser: false
