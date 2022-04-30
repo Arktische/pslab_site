@@ -8,6 +8,8 @@ design:
   columns: "2"
   css_style: null
   css_class: null
+  background:
+    image: https://engineering.fb.com/wp-content/uploads/2018/05/data-center-shot.jpg
 ---
 <br>
 
