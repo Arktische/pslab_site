@@ -22,27 +22,25 @@ Our Lab consists of two SIGs(Special Interest Group):
 
 1. SIGAI: AI related research & techniques, now including SLAM, Robotic Vision and AutoML
 2. SIGSYS: computer systems related research, including Distributed Database, GPU Achitecture, Privacy & Security et al.
-    </div>
+ </div>
  <div class="col-12 col-lg-4">
-         <div class="col-md-7">
-            <div class="section-subheading">Dashboard</div>
+      <div class="section-subheading">Dashboard</div>
         <ul class="ul-interests mb-0">
           <li>We are finding collaborators for an educational open-sourced project tinyRPC.</li>
           <li>We have seminar on variable topics periodly. Join us if you're interested.</li>
           <li>Contact us: lab@pivotstudio.cn</li>
         </ul>
       </div>
-   </div>
   </div>
-   <div class="row">
-      <div class="col-md-7">
+ <div class="row">
+      <div class="col-12 col-lg-8">
             <div class="section-subheading">Research Topics</div>
         <ul class="ul-interests mb-0">
           <li>SIGAI: Robotic Vision, AutoML, Reinforcement Learning et al.</li>
           <li>SIGSYS: Distributed DB, GPU Arch, AI for Security & Privacy et al.</li>
         </ul>
       </div>
-      <div class="col-md-7">
+      <div class="col-12 col-lg-8">
             <div class="section-subheading">Support & Fundings</div>
         <ul class="ul-interests mb-0">
           <li>Fundings & Colloboration from Tencent</li>
