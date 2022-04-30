@@ -21,5 +21,5 @@ education:
       year: 2019
 superuser: false
 user_groups:
-  - Researchers
+  - Member
 ---
