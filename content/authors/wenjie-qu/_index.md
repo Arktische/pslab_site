@@ -1,6 +1,6 @@
 ---
 title: Wenjie Qu
-role: Co-fouder
+role: Senior Student in SIGSYS
 avatar_filename: avatar.jpg
 social:
   - display:
