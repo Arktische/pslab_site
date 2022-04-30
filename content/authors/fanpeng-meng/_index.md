@@ -19,4 +19,6 @@ education:
       institution: "Huazhong University of Science & Technology "
       year: 2019
 superuser: false
+user_groups:
+  - Researchers
 ---
