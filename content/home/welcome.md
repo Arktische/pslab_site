@@ -19,3 +19,7 @@ Our Lab consists of two SIGs(Special Interest Group):
 
 1. SIGAI: AI related research & techniques, now including SLAM, Robotic Vision and AutoML
 2. SIGSYS: computer systems related research, including Distributed Database, GPU Achitecture, Privacy & Security et al.
+
+<div style="float:right;max-width:768px">
+<p>If you want to contact with us</p>
+</div>
