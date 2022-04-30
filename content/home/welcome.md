@@ -11,16 +11,14 @@ design:
   background:
     image: ""
 ---
-
-
 <div class="row">
     <div class="col-12 col-lg-12">
         <br>
         <div class="section-subheading">Introduction</div>
         <p><strong>Pivot Lab</strong> was established at HUST, 2021. Our members consist of self-motivated students from different
         information disciplines at HUST from ECE/CS/AIA department, aiming to build an interest-driven research group
-        especially for undergradutes.</p><p>Our Lab consists of several SIGs(Special Interest Group) and driven by our UG members and advisors(usually
-        senior students or experienced graduates). We continue to explore the frontiers in computer science and make
+        especially for undergradutes.</p><p>Our Lab has several SIGs(Special Interest Group) and driven by our UG members and advisors(usually
+        senior students or experienced graduates). We keep exploring the frontiers in computer science and make
         things happen!</p>
     </div>
 </div>
@@ -28,16 +26,16 @@ design:
     <div class="col-12 col-lg-4">
         <div class="section-subheading">Research Topics</div>
         <ul class="ul-interests mb-0">
-            <li>AI&ML Research: Robotic Vision, AutoML, Reinforcement Learning et al.</li>
-            <li>System Research: Distributed DB, GPU Arch, AI for Security & Privacy et al.</li>
+            <li><strong>AI&ML</strong>: Robotic Vision, AutoML, Reinforcement Learning et al.</li>
+            <li><strong>System</strong>: Distributed DB, GPU Arch, AI for Security & Privacy et al.</li>
         </ul>
     </div>
     <div class="col-12 col-lg-4">
-        <div class="section-subheading">Support & Fundings</div>
+        <div class="section-subheading">Colloborations & Fundings</div>
         <ul class="ul-interests mb-0">
             <li>Fundings & Colloboration from Tencent</li>
-            <li>Colloboration with PDSL Lab@HUST led by Prof. Wan</li>
-            <li>Official funding and support from CSE department, HUST</li>
+            <li>Colloboration with <strong>PDSL Lab</strong>@HUST led by <a href=""http://faculty.hust.edu.cn/wanjiguang/zh_CN/zhym/1618843/list/index.htm>Prof. Wan</a></li>
+            <li>Official funding and support from <a  href="http://cs.hust.edu.cn">CSE</a> department, HUST</li>
         </ul>
     </div>
     <div class="col-12 col-lg-4">
