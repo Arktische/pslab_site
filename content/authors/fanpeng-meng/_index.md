@@ -1,6 +1,6 @@
 ---
 title: Fanpeng Meng
-role: co-Founder of Pivot Lab
+role: Co-Founder of Pivot Lab
 avatar_filename: avatar.jpg
 interests:
   - Robotics & SLAM
@@ -13,12 +13,14 @@ social:
     icon_pack: fas
     link: https://mfp0610.github.io/
     icon: book
-organizations: []
+organizations:
+  - name: Peking University
 education:
   courses:
     - course: B.Eng in Automation
       institution: "Huazhong University of Science & Technology "
       year: 2019
+email: fpmeng@pivotstudio.cn
 superuser: false
 user_groups:
   - Member
