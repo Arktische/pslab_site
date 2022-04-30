@@ -8,4 +8,6 @@ social:
     link: https://mfp0610.github.io/
     icon: academia
 superuser: false
+user_groups:
+  - Researchers
 ---
