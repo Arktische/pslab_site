@@ -1,6 +1,6 @@
 ---
 title: Fanpeng Meng
-role: Co-Founder of Pivot Lab
+role: Co-Founder of Pivot Lab, Senior Student in SIGSYS
 avatar_filename: avatar.jpg
 bio: "Undergraduate Researcher on Robotics. "
 interests:
