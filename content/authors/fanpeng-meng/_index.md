@@ -1,7 +1,7 @@
 ---
 title: Fanpeng Meng
 role: co-Founder of Pivot Lab
-avatar_filename: me.jpg
+avatar_filename: avatar.jpg
 interests:
   - Robotics & SLAM
   - Reinforcement Learning
