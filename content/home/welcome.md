@@ -3,13 +3,13 @@ widget: hero
 widget_id: introduction-page
 headless: true
 weight: 10
-title: Pivot Lab
+title: Lab@Pivot Studio
 design:
   columns: "2"
   css_style: null
   css_class: null
   background:
-    image: "https://engineering.fb.com/wp-content/uploads/2018/05/data-center-shot.jpg"
+    image: ""
 ---
 <br>
 
