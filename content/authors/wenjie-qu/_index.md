@@ -1,6 +1,6 @@
 ---
 title: Wenjie Qu
-role: Senior Student in SIGSYS
+role: Senior Student in IGSYS
 avatar_filename: avatar.jpg
 social:
   - display:
