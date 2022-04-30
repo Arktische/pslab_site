@@ -6,7 +6,7 @@ weight: 10
 title: Pivot Lab
 hero_media: welcome.jpg
 design:
-  columns: "1"
+  columns: "2"
   css_style: null
   css_class: null
 ---
@@ -16,5 +16,5 @@ design:
 
 Our Lab consists of two SIGs(Special Interest Group): 
 
-1. SIGAI: AI related research & techniques, now including SLAM, Robotics and AutoML
+1. SIGAI: AI related research & techniques, now including SLAM, Robotic Vision and AutoML
 2. SIGSYS: computer systems related research, including Distributed Database, GPU Achitecture, Privacy & Security et al.
