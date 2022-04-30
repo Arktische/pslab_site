@@ -9,4 +9,6 @@ social:
     icon_pack: fas
     icon: book
 superuser: false
+user_groups:
+  - Reseachers
 ---
