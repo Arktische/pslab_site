@@ -1,5 +1,5 @@
 ---
-widget: hero
+widget: about
 widget_id: introduction-page
 headless: true
 weight: 10
