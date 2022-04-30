@@ -1,9 +1,16 @@
 ---
-widget: hero
+widget: intro
 widget_id: introduction-page
 headless: true
 weight: 10
 title: Lab@Pivot Studio
+research_topic:
+  - SIGAI: Robotic Vision, AutoML, Reinforcement Learning et al.
+  - SIGSYS: Distributed DB, GPU Arch, AI for Security & Privacy et al.
+connection:
+  - Fundings & Colloboration from Tencent
+  - Colloboration with PDSL Lab@HUST led by Prof. Wan 
+  - Official funding and support from CSE department, HUST
 design:
   columns: "2"
   css_style: null
