@@ -27,6 +27,9 @@ user_groups:
   - Member
 ---
 I am a senior undergraduate student at Huazhong University of Science & Technology.
+
 My research interest is Robotics & SLAM, specifically on learing-based active neural SLAM applying reinforcement learning.
+
 Currently I am working with Prof. He Wang at Peking University as a research assistant.
+
 Personal Page: https://mfp0610.github.io/
