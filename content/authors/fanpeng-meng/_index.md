@@ -2,7 +2,7 @@
 title: Fanpeng Meng
 role: Co-Founder of Pivot Lab
 avatar_filename: avatar.jpg
-bio: Undergraduate Student in Huazhong University of Science & Technology.
+bio: "Undergraduate Researcher on Robotics. "
 interests:
   - Robotics & SLAM
   - Reinforcement Learning
