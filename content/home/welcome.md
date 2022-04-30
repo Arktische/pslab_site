@@ -1,5 +1,5 @@
 ---
-widget: about
+widget: hero
 widget_id: introduction-page
 headless: true
 weight: 10
@@ -9,7 +9,7 @@ design:
   css_style: null
   css_class: null
   background:
-    image: ""
+    image: "https://engineering.fb.com/wp-content/uploads/2018/05/data-center-shot.jpg"
 ---
 <br>
 
