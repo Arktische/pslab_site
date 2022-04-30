@@ -13,7 +13,7 @@ design:
 ---
 <br>
 
-**Pivot Lab** was established at HUST, 2021. Our members consists of students from different information disciplines at HUST and instructors (usually professors)from ECE/CS/AIA department, aiming to build an interest-driven research group especially for undergradutes.
+**Pivot Lab** was established at HUST, 2021. Our members consist of self-motivated students from different information disciplines at HUST from ECE/CS/AIA department, aiming to build an interest-driven research group especially for undergradutes.
 
 Our Lab consists of two SIGs(Special Interest Group): 
 
