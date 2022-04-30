@@ -15,7 +15,7 @@ design:
 <div class="row">
   <div class="col-12 col-lg-8">
     <br>
-
+<div class="section-subheading">Introduction</div>
 **Pivot Lab** was established at HUST, 2021. Our members consist of self-motivated students from different information disciplines at HUST from ECE/CS/AIA department, aiming to build an interest-driven research group especially for undergradutes.
 
 Our Lab consists of two SIGs(Special Interest Group): 
@@ -33,7 +33,7 @@ Our Lab consists of two SIGs(Special Interest Group):
       </div>
   </div>
  <div class="row">
-      <div class="col-12 col-lg-8">
+      <div class="col-12 col-lg-4">
             <div class="section-subheading">Research Topics</div>
         <ul class="ul-interests mb-0">
           <li>SIGAI: Robotic Vision, AutoML, Reinforcement Learning et al.</li>
