@@ -1,6 +1,6 @@
 ---
 title: Chenyu Zhou
-role: Senior Student in SIGAI
+role: Senior Student in IGAI
 avatar_filename: avatar.jpg
 social: []
 superuser: false
