@@ -11,19 +11,20 @@ design:
   background:
     image: ""
 ---
+
+
 <div class="row">
     <div class="col-12 col-lg-12">
         <br>
         <div class="section-subheading">Introduction</div>
-        **Pivot Lab** was established at HUST, 2021. Our members consist of self-motivated students from different
+        <p><strong>Pivot Lab</strong> was established at HUST, 2021. Our members consist of self-motivated students from different
         information disciplines at HUST from ECE/CS/AIA department, aiming to build an interest-driven research group
-        especially for undergradutes.
+        especially for undergradutes.</p>
 
-        Our Lab consists of several SIGs(Special Interest Group) and driven by our UG members and advisors(usually
+        <p>Our Lab consists of several SIGs(Special Interest Group) and driven by our UG members and advisors(usually
         senior students or experienced graduates). We continue to explore the frontiers in computer science and make
-        things happen!
+        things happen!</p>
     </div>
-
 </div>
 <div class="row">
     <div class="col-12 col-lg-4">
@@ -50,4 +51,3 @@ design:
         </ul>
     </div>
 </div>
-
