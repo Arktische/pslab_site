@@ -10,9 +10,9 @@ interests:
 social:
   - display:
       header: false
-    icon_pack: ai
+    icon_pack: fas
     link: https://mfp0610.github.io/
-    icon: academia
+    icon: book
 organizations: []
 education:
   courses:
