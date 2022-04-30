@@ -1,6 +1,6 @@
 ---
 title: Fanpeng Meng
-avatar_filename: avatar
+avatar_filename: me.png
 interests:
   - Robotics & SLAM Reinforcement Learning  Computer Vision  Weakly Advised
     Learning
