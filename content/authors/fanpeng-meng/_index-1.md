@@ -2,8 +2,10 @@
 title: Fanpeng Meng
 avatar_filename: me.png
 interests:
-  - Robotics & SLAM Reinforcement Learning  Computer Vision  Weakly Advised
-    Learning
+  - Robotics & SLAM
+  - Reinforcement Learning
+  - Computer Vision
+  - Weakly Advised Learning
 social:
   - display:
       header: false
@@ -17,6 +19,4 @@ education:
       institution: "Huazhong University of Science & Technology "
       year: 2019
 superuser: false
-user_groups:
-  - Researchers
 ---
