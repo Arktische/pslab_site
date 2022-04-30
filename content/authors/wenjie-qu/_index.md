@@ -10,5 +10,5 @@ social:
     icon: book
 superuser: false
 user_groups:
-  - Reseachers
+  - Researchers
 ---
