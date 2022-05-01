@@ -26,9 +26,9 @@ superuser: false
 user_groups:
   - Member
 ---
-I am a senior undergraduate student at Huazhong University of Science & Technology.
+I am a senior UG student at Huazhong University of Science & Technology.
 
-My research interest is Robotics & SLAM, specifically on learing-based active neural SLAM applying reinforcement learning.
+My research interest is Robotics & SLAM, specifically on active 3D reconstruction.
 
 Currently I am working with Prof. He Wang at Peking University as a research assistant.
 
