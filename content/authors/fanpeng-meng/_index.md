@@ -30,6 +30,6 @@ I am a senior UG student at Huazhong University of Science & Technology.
 
 My research interest is Robotics & SLAM, specifically on active 3D reconstruction.
 
-Currently I am working with Prof. He Wang at Peking University as a research assistant.
+Currently I am working with Prof. He Wang at Peking University as a RA.
 
 Personal Page: https://mfp0610.github.io/
