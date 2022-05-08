@@ -1,6 +1,6 @@
 ---
 title: Chenhui Mo
-role: IGSYS Adviosr, Incoming Developer@Apache Doris
+role: IGSYS Advisor, Incoming Developer@Apache Doris
 avatar_filename: avatar
 social: []
 superuser: false
