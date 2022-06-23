@@ -36,6 +36,8 @@ design:
             <li>Fundings & Colloboration from <strong>Tencent</strong></li>
             <li>Collaboration with <strong>PDSL Lab</strong>@HUST led by <a href="http://faculty.hust.edu.cn/wanjiguang/zh_CN/zhym/1618843/list/index.htm">Prof. Wan</a></li>
             <li>Official funding and support from <a  href="http://cs.hust.edu.cn">CSE</a> department, HUST</li>
+
+<li>Officail collaboration with Megvii aka.旷视</li>
         </ul>
     </div>
     <div class="col-12 col-lg-4">
